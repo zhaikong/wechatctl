@@ -22,3 +22,5 @@
 # Local cross-compilation inputs and outputs. The Apple SDK is never committed.
 /.osxcross/
 /dist/
+config.bat
+node_modules
